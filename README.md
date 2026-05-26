@@ -1,0 +1,2 @@
+> [!WARNING]
+> This repository is archived. For up-to-date guidance on creating extensions for Stencyl, see [How to Create Toolset Extensions](https://www.stencyl.com/help/view/creating-extensions) on Stencylpedia.
